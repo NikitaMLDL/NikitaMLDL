@@ -3,7 +3,7 @@ i'm currently studing
 
 
 ## 🌐 Socials:
-[![Telegram](<a href="https://www.flaticon.com/free-icons/telegram" title="telegram icons">Telegram icons created by Freepik - Flaticon</a>)](https://t.me/million44ik)
+[![Telegram](https://drive.google.com/file/d/1AEZLssy5NlYlWQQp0Iijdh5M3e7lQM7b/view?usp=sharing)](https://t.me/million44ik)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitaabr83@gmail.com) 
 
 # 💻 Tech Stack:
