@@ -3,7 +3,7 @@ i'm currently studing
 
 
 ## 🌐 Socials:
-[![Telegram](https://drive.google.com/file/d/1AEZLssy5NlYlWQQp0Iijdh5M3e7lQM7b/view?usp=sharing)](https://t.me/million44ik)
+[![Telegram](https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg)](https://t.me/million44ik)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitaabr83@gmail.com) 
 
 # 💻 Tech Stack:
