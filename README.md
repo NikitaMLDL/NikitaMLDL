@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently studing
+Results-driven IT professional with a background in education and experience as an instructor and mentor in course settings. Passionate about innovative industries while also open to exploring various fields. Seeking a full-time position, whether in-office or remote, where I can leverage my skills to contribute to the company's success and product development in practical applications. Enjoy tackling scoring challenges and, in my free time, I indulge in workout activities and baking bread.
 
 
 ## 🌐 Socials:
