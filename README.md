@@ -3,7 +3,10 @@ i'm currently studing
 
 
 ## 🌐 Socials:
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg)](https://t.me/million44ik)
+<a href="https://t.me/million44ik" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" style="width: 50px; height: 50px;">
+</a>
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitaabr83@gmail.com) 
 
 # 💻 Tech Stack:
