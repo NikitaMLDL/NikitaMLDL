@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Russian</h3>
 
 ### Connect with me.
-[Telegram](tg://@million44ik)
-
+[Telegram](https://t.me/million44ik)
 
 <p align="left">
 </p>
