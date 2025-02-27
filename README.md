@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate Data Scientist from Russian</h3>
 
-<h3 align="left">Connect with me. tg: <a>@million44ik/</a></h3>
+<h3 align="left">Connect with me. tg: ![tg](tg://@million44ik)</h3>
 <a href="https://web.telegram.org/a/#6228658742" target="blank"></a>
 
 <p align="left">
