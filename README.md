@@ -1,6 +1,5 @@
 # 💫 About Me:
-Results-driven IT professional with a background in education and experience as an instructor and mentor in course settings. Passionate about innovative industries while also open to exploring various fields. Seeking a full-time position, whether in-office or remote, where I can leverage my skills to contribute to the company's success and product development in practical applications. Enjoy tackling scoring challenges and, in my free time, I indulge in workout activities and baking bread.
-
+Results-driven IT professional and Data Scientist with a background in education and experience as an instructor and mentor in course settings. Currently working on a facial recognition project and actively studying time series analysis to forecast doctor workload in a clinical setting. Passionate about innovative industries while also open to exploring various fields. Seeking a full-time position, whether in-office or remote, where I can leverage my skills to contribute to the company's success and product development in practical applications. Enjoy tackling complex challenges, and in my free time, I indulge in workout activities and baking bread
 
 ## 🌐 Socials:
 <a href="https://t.me/million44ik" target="_blank">
